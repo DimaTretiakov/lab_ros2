@@ -1,0 +1,3 @@
+FROM ros2lab2:galactic
+USER root
+WORKDIR /home/ros
